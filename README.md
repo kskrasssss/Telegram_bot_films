@@ -10,7 +10,9 @@
    git clone https://https://github.com/kskrasssss/Telegram_bot_films
    ```
 2. Перейдіть до папки проєкту:
+   ```bash
    cd Telegram_bot_films
+   ```
 
     ---Встановлення необхідних бібліотек---
     1. pip install aiogram або pip3 install aiogram --> python.exe -m pip install --upgrade pip      
