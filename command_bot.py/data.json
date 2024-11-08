@@ -5,6 +5,7 @@
             "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
             "rating": 7.1,
             "genre": "Fantasy",
+            "mood": "adventure",
             "actors": [
                 "Daniel Radcliffe",
                 "Rupert Grint",
@@ -21,13 +22,14 @@
                 "Maggie Smith",
                 "Julie Walters"
             ],
-            "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+            "poster": "https://uaserial.com/images/serials/64/640f43245500b804953998.webp"
         },
         {
             "name": "Garfield: The Movie",
             "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and written by Joel Cohen and Alec Sokolow, it stars Breckin Meyer as Jon Arbuckle, Jennifer Love Hewitt as Dr. Liz Wilson and features Bill Murray as the voice of Garfield, who was created with computer-generated imagery.",
             "rating": 3.52,
             "genre": "Fantasy",
+            "mood": "sarcastic",
             "actors": [
                 "Breckin Meyer",
                 "Jennifer Love Hewitt",
@@ -35,6 +37,116 @@
                 "Bill Murray"
             ],
             "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg"
+        },
+        {
+            "name": "The Godfather",
+            "description": "A 1972 American crime film directed by Francis Ford Coppola and based on the novel of the same name by Mario Puzo. The story spans the years 1945 to 1955 and chronicles the Corleone crime family.",
+            "rating": 9.2,
+            "genre": "Crime",
+            "mood": "horror",
+            "actors": [
+                "Marlon Brando",
+                "Al Pacino",
+                "James Caan",
+                "Richard S. Castellano"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+        },
+        {
+            "name": "Deadpool (film)",
+            "description": "A 2016 American superhero film directed by Tim Miller, in his directorial debut, and written by Rhett Reese and Paul Wernick. Based on the Marvel Comics character of the same name and distributed by 20th Century Fox, it is a spin-off of the X-Men film series and its overall eighth installment. The film stars Ryan Reynolds in the title role, alongside Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano, and Brianna Hildebrand. In the film, Wade Wilson hunts the man responsible for giving him mutant abilities and a scarred physical appearance, becoming the antihero Deadpool.",
+            "rating": 7.6,
+            "genre": "action",
+            "mood": "sarcastic",
+            "actors": [
+                "Ryan Reynolds",
+                "Morena Baccarin",
+                "Gina Carano",
+                "Ed Skrein",
+                "Brianna Hildebrand",
+                "Stefan Kapicich",
+                "Leslie Aggams",
+                "TJ Miller",
+                "Stan Lee",
+                "Taylor Hickson",
+                "Jed Rees",
+                "Karan Soni"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png"
+        },
+        {
+            "name": "Jumanji: Welcome to the Jungle",
+            "description": "A 2017 American science fiction adventure film directed by Jake Kasdan , a sequel to Jumanji  ( 1995), based on the children's book of the same name by Chris Van Allsburg .",
+            "rating": 9.1,
+            "genre": "adventure",
+            "mood": "happy",
+            "actors": [
+                "Dwayne Johnson",
+                "Jack Black",
+                "Kevin Hart",
+                "Karen Gillan",
+                "Alex Wolff",
+                "Nick Jonas",
+                "Madison Iceman",
+                "Bobby Cannavale",
+                "Morgan Turner",
+                "Reese Derby",
+                "Ser'Darius Blaine",
+                "Mark Evan Jackson",
+                "Missy Pyle",
+                "Mason Guccione",
+                "Marybeth Monroe"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jumanji_Welcome_to_the_Jungle.png"
+        },
+        {
+            "name": "Ghost Rider",
+            "description": "A 2007 American superhero film written and directed by Mark Steven Johnson. Based on the Marvel Comics character of the same name, it was produced by Columbia Pictures in association with Marvel Entertainment, Crystal Sky Pictures, and Relativity Media, and distributed by Sony Pictures Releasing. ",
+            "rating": 5.3,
+            "genre": "Fantasy",
+            "mood": "angry",
+            "actors": [
+                "Nicolas Cage",
+                "Eva Mendes",
+                "Sam Elliot",
+                "Raquel Alessi",
+                "Ves Bentley",
+                "Peter Fonda",
+                "Matt Long",
+                "Rebel Wilson"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/uk/2/2f/Ghost_Rider_2_Poster.jpg?20240725191204"
+        },
+        {
+            "name": "1+1",
+            "description": "A 2011 French buddy comedy-drama film written and directed by Éric Toledano and Olivier Nakache. It stars François Cluzet and Omar Sy. The plot of the film is inspired by the true story of Philippe Pozzo di Borgo and his French-Algerian caregiver Abdel Sellou,[3] discovered by the directors in À la vie, à la mort, a documentary film.",
+            "rating": 8.5,
+            "genre": "Comedy",
+            "mood": "sarcastic",
+            "actors": [
+                "Omar Sy",
+                "Fransua Kluze",
+                "Odri Flero",
+                "Anne Le Ni",
+                "Siril Mendi",
+                "Clotilda Molle",
+                "Gregoire Esterman",
+                "Marie-Laure Dicourou",
+                "Alba Gaia Kragede Bellugi"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/ru/b/b9/Intouchables.jpg?20120816160925"
+        },
+        {
+            "name": "bddhf",
+            "description": "rfcgekrmgkrtg",
+            "rating": 5.0,
+            "genre": "sggrg",
+            "mood": "reag",
+            "actors": [
+                "fdgdg",
+                "rgsr"
+            ],
+            "poster": "https://upload.wikimedia.org/wikipedia/ru/b/b9/Intouchables.jpg?20120816160925"
         }
     ]
 }

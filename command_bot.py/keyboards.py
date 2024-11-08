@@ -1,13 +1,15 @@
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.filters.callback_data import CallbackData
 
-# CallbackData в інлайні - 
+# Як будуть відображатись фільми
 class FilmCallback(CallbackData, prefix="film", sep=";"):
     id: int
     name: str
 
+
 def films_keyboard_markup(films_list:list[dict], offset:int|None = None, skip:int|None = None):
-    
+    # offset-приклад: починаючи з 10-го фільму
+    # skip = step
    
     # Створюємо та налаштовуємо клавіатуру
     builder = InlineKeyboardBuilder()
@@ -24,7 +26,4 @@ def films_keyboard_markup(films_list:list[dict], offset:int|None = None, skip:in
     builder.adjust(1, repeat=True)
     return builder.as_markup()
 
-
-    builder.adjust(1, repeat=True)
-    return builder.as_markup()
 
