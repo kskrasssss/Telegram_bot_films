@@ -8,15 +8,34 @@
 
    ```bash
    git clone https://https://github.com/kskrasssss/Telegram_bot_films
+   ```
 2. Перейдіть до папки проєкту:
-  cd Telegram_bot_films
+   cd Telegram_bot_films
 
     ---Встановлення необхідних бібліотек---
     1. pip install aiogram або pip3 install aiogram --> python.exe -m pip install --upgrade pip      
+      ```bash
+      pip install aiogram
+      ```
+
+      ```bash
+      pip3 install aiogram
+      ```
     2. Перевірка версії python --> python --version або python3 --version
+      ```bash
+      python --version
+      ```
+
+      ```bash
+      python3 --version
+      ```
+
 ---Запуск бота---
 1. Створіть файл .env або змініть значення TOKEN у файлі коду, щоб додати ваш власний токен від BotFather.
 2. Запустіть бота за допомогою наступної команди: python bot.py
+```bash
+python bot.py
+```
 
 ---Використання---
 Є меню з командами - /start
